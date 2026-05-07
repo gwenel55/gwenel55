@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gwen!<br>I'm a recent Computer Engineering graduate from the University of Pittsburgh <br>focusing on software development in Python, Java, C, C++, and C#. <br>
+Hi, I'm Gwen!<br>I'm a Software Developer focusing on software development in Python, Java, C, C++, and C#. <br>
 
 
 ## 🌐 Socials:
